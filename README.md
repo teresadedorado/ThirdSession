@@ -5,3 +5,5 @@ some print examples
 - is 
 - a 
 - list
+- for the homework
+- 
